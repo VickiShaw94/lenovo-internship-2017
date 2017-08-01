@@ -45,12 +45,25 @@ Technologies used:
 
 #VSLIDE
 ![nav](assets/Navigation.gif)
+#### Navigation
+#VSLIDE
 ![add](assets/Add New.gif)
+#### Adding Items
+#VSLIDE
 ![edit](assets/Edit.gif)
+#### Editing Items
+#VSLIDE
 ![check](assets/CheckIn_Out_Search.gif)
+#### Checking Items to Your Queue
+#VSLIDE
 ![ship](assets/Ship.gif)
+#### Shipping Items
+#VSLIDE
 ![scrap](assets/Scrap.gif)
+#### Scrapping Items
+#VSLIDE
 ![admin](assets/Admin.gif)
+#### Administrators, and Ron
 
 #HSLIDE
 
