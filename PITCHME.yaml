@@ -3,8 +3,7 @@ theme : moon
 ## logo : assets/new-lenovo-logo.png
 
 # logo : assets/ThinkPad-POS-Color.eps
-#
-#
+highlight: monokai
 
 
 background-size : cover

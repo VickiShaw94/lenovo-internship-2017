@@ -65,14 +65,13 @@ Technologies used:
 ![admin](assets/Admin.gif)
 #### Administrators, and Ron
 
+
 #HSLIDE
 
-### Interior
-- Practical outer grip on B cover
-- Large bezel
-- Large gap between B-C covers
-- Asynchronous plastic cover texture
-- Power button and fingerprint reader aligned
++++?gist=28ee3d19ddef9d51b15adbdfe9ed48da
+
+
+### 
  
 
 #HSLIDE
