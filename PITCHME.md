@@ -1,4 +1,4 @@
-## Lenovo Summer 2017
+# Lenovo Summer 2017
 Vicki Shaw
 
 #HSLIDE
@@ -93,14 +93,14 @@ Documentation
 
 #VSLIDE
 
-## What I would do differently
+### What I would do differently
 - Ask more questions about users
 - Design for modularity - less repeated code
 - Version control
 
 #VSLIDE
 
-##AIMS 2.1?
+### AIMS 2.1?
 - Beautification
 - Flex database integration
 - Increased admin functionality
@@ -109,7 +109,7 @@ Documentation
 
 #HSLIDE
 
-##Learnings
+### Learnings
 - Relational databases
 - C# language
 - VBA
@@ -132,8 +132,8 @@ Documentation
 
 #VSLIDE
 
-"I still don't know what I'm doing"
-\n *Joe*
+## "I still don't know what I'm doing"
+*Joe*
 
 
 
