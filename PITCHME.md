@@ -68,8 +68,49 @@ Technologies used:
 
 #HSLIDE
 
-+++?gist=28ee3d19ddef9d51b15adbdfe9ed48da
+# What's Next?
 
+#VSLIDE
+
+Documentation
+
+'''
+/// <summary> 
+/// Event handler for finish button click for add-new-item mode 
+/// </summary> 
+/// <param name="sender"></param> 
+/// <param name="e"></param> 
+
+private void bbi_add_finish_ItemClick(object sender, ItemClickEventArgs e) 
+{ 
+    //close UC 
+   
+    foreach (Control c in Controls.Find(UC_LABEL, false)) 
+    { 
+        Controls.Remove(c); 
+    } 
+   
+    xtraTab_entries.Visible = true;  
+   
+    //close add ribbon page 
+   
+    ribbon_add.Visible = false; 
+   
+    //move user to home page 
+    
+    dockPanel.Visibility = DevExpress.XtraBars.Docking.DockVisibility.Visible; 
+    ribbonPage_home.Visible = true; 
+    ribbonControl.SelectedPage = ribbonPage_home;
+ }
+'''
+#VSLIDE
+
+###AIMS 2.- ?
+- Beautification
+- Flex database integration
+- Increased admin functionality
+- Advanced searching 
+- RFID login and printing 
 
 ### 
  
