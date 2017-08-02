@@ -70,29 +70,11 @@ Vicki Shaw
 
 #HSLIDE
 
-### Documentation
-
-    /// <summary> 
-    /// </summary> 
-    /// <param name="sender"></param> 
-    /// <param name="e"></param> 
-    private void bbi_add_finish_ItemClick(object sender, ItemClickEventArgs e) 
-    { 
-        foreach (Control c in Controls.Find(UC_LABEL, false)) 
-        { 
-            Controls.Remove(c); 
-        } 
-        xtraTab_entries.Visible = true;  
-        ribbon_add.Visible = false; 
-        dockPanel.Visibility = DevExpress.XtraBars.Docking.DockVisibility.Visible; 
-    }
-
-#HSLIDE
-
 ### What I would do differently
 - Ask more questions about users
 - Design for modularity - less repeated code
 - Version control
+- Documentation!!!
 
 #HSLIDE
 
