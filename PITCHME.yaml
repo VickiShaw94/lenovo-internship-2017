@@ -3,7 +3,7 @@ theme : moon
 ## logo : assets/new-lenovo-logo.png
 
 # logo : assets/ThinkPad-POS-Color.eps
-highlight: gruvbox-dark
+highlight: solarized-dark
 
 
 background-size : cover
