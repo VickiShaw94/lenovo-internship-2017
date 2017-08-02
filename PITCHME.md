@@ -1,6 +1,5 @@
-## My Lenovo Internship
+## Lenovo Summer 2017
 Vicki Shaw
-Summer 2017
 
 #HSLIDE
 
@@ -21,7 +20,7 @@ Summer 2017
 #HSLIDE
 
 ### AIMS 2.0
-**Goal:** Redesign and implement product engineering lab inventory management system and application
+**Goal:** Redesign and implement product engineering lab inventory management system 
 
 #VSLIDE
 
@@ -123,18 +122,18 @@ Documentation
 
 #VSLIDE
 
-# "Your first job isn't your last"
+## "Your first job isn't your last"
 *Robbie*
 
 #VSLIDE
 
-# "Do something you don't dislike" 
+## "Do something you don't dislike" 
 *Brian*
 
 #VSLIDE
 
-# "I still don't know what I'm doing"
-*Joe*
+"I still don't know what I'm doing"
+\n *Joe*
 
 
 
