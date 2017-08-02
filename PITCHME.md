@@ -1,6 +1,6 @@
 ## My Lenovo Internship
-### Vicki Shaw
-### Summer 2017
+Vicki Shaw
+Summer 2017
 
 #HSLIDE
 
@@ -11,28 +11,30 @@
 #HSLIDE
 
 ### DCG
-*Goal:* Predict server failures before they happen
+**Goal:** Predict server failures before they happen
 
-- Delay in approved access for private customer information
-- Insufficient training data for machine learning algorithms
-- Palantir partnership was not helpful for project's goal 
+- Delay in access to private customer information
+- Insufficient training data for machine learning
+- Palantir partnership not helpful for project 
 - Project terminated early
 
 #HSLIDE
 
 ### AIMS 2.0
-*Goal:* Redesign and implement product engineering lab inventory management system and application
+**Goal:** Redesign and implement product engineering lab inventory management system and application
 
-Technologies used:
+#VSLIDE
+
+### Technologies
 - C# winforms, Visual Studio
 - DevExpress
 - Entity Framework 6
 - MySQL database
 - Dymo Label Printer SDK
 
-#HSLIDE
+#VSLIDE
 
-### AIMS 2.0 - Features
+### Features
 - Navigate through items in your queue, or all items
 - Open tabs with more details of selected items
 - Add multiple items at a time
@@ -63,10 +65,9 @@ Technologies used:
 ![admin](assets/Admin.gif)
 #### Administrators, and Ron
 
-
 #HSLIDE
 
-# What's Next?
+## AIMS 2.0: What's Next?
 
 #VSLIDE
 
@@ -77,38 +78,30 @@ Documentation
     /// </summary> 
     /// <param name="sender"></param> 
     /// <param name="e"></param> 
-
     private void bbi_add_finish_ItemClick(object sender, ItemClickEventArgs e) 
     { 
         //close UC 
-    
         foreach (Control c in Controls.Find(UC_LABEL, false)) 
         { 
             Controls.Remove(c); 
         } 
-    
         xtraTab_entries.Visible = true;  
-    
         //close add ribbon page 
-    
         ribbon_add.Visible = false; 
-    
         //move user to home page 
-        
         dockPanel.Visibility = DevExpress.XtraBars.Docking.DockVisibility.Visible; 
-        ribbonPage_home.Visible = true; 
-        ribbonControl.SelectedPage = ribbonPage_home;
     }
+
 #VSLIDE
 
-#### What I would do differently
+## What I would do differently
 - Ask more questions about users
 - Design for modularity - less repeated code
 - Version control
 
 #VSLIDE
 
-###AIMS 2.2?
+##AIMS 2.1?
 - Beautification
 - Flex database integration
 - Increased admin functionality
@@ -117,15 +110,33 @@ Documentation
 
 #HSLIDE
 
-###Learnings
+##Learnings
 - Relational databases
 - C# language
 - VBA
 - Powershell Script
+- GitPitch and Markdown
 
 #HSLIDE 
 
-### "Do something you don't dislike"
+# Quotable Quotes
+
+#VSLIDE
+
+# "Your first job isn't your last"
+*Robbie*
+
+#VSLIDE
+
+# "Do something you don't dislike" 
+*Brian*
+
+#VSLIDE
+
+# "I still don't know what I'm doing"
+*Joe*
+
+
 
 #HSLIDE 
 
