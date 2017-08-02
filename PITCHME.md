@@ -22,7 +22,7 @@ Vicki Shaw
 ### AIMS 2.0
 **Goal:** Redesign and implement product engineering lab inventory management system 
 
-#VSLIDE
+#HSLIDE
 
 ### Technologies
 - C# winforms, Visual Studio
@@ -31,7 +31,7 @@ Vicki Shaw
 - MySQL database
 - Dymo Label Printer SDK
 
-#VSLIDE
+#HSLIDE
 
 ### Features
 - Navigate through items in your queue, or all items
@@ -42,25 +42,25 @@ Vicki Shaw
 - Scrap items
 - Print item barcodes
 
-#VSLIDE
+#HSLIDE
 ![nav](assets/Navigation.gif)
 #### Navigation
-#VSLIDE
+#HSLIDE
 ![add](assets/Add New.gif)
 #### Adding Items
-#VSLIDE
+#HSLIDE
 ![edit](assets/Edit.gif)
 #### Editing Items
-#VSLIDE
+#HSLIDE
 ![check](assets/CheckIn_Out_Search.gif)
 #### Checking Items to Your Queue
-#VSLIDE
+#HSLIDE
 ![ship](assets/Ship.gif)
 #### Shipping Items
-#VSLIDE
+#HSLIDE
 ![scrap](assets/Scrap.gif)
 #### Scrapping Items
-#VSLIDE
+#HSLIDE
 ![admin](assets/Admin.gif)
 #### Administrators, and Ron
 
@@ -68,7 +68,7 @@ Vicki Shaw
 
 ## AIMS 2.0: What's Next?
 
-#VSLIDE
+#HSLIDE
 
 ### Documentation
 
@@ -87,14 +87,14 @@ Vicki Shaw
         dockPanel.Visibility = DevExpress.XtraBars.Docking.DockVisibility.Visible; 
     }
 
-#VSLIDE
+#HSLIDE
 
 ### What I would do differently
 - Ask more questions about users
 - Design for modularity - less repeated code
 - Version control
 
-#VSLIDE
+#HSLIDE
 
 ### AIMS 2.1?
 - Beautification
