@@ -73,21 +73,17 @@ Vicki Shaw
 Documentation
 
     /// <summary> 
-    /// Event handler for finish button click for add-new-item mode 
     /// </summary> 
     /// <param name="sender"></param> 
     /// <param name="e"></param> 
     private void bbi_add_finish_ItemClick(object sender, ItemClickEventArgs e) 
     { 
-        //close UC 
         foreach (Control c in Controls.Find(UC_LABEL, false)) 
         { 
             Controls.Remove(c); 
         } 
         xtraTab_entries.Visible = true;  
-        //close add ribbon page 
         ribbon_add.Visible = false; 
-        //move user to home page 
         dockPanel.Visibility = DevExpress.XtraBars.Docking.DockVisibility.Visible; 
     }
 
