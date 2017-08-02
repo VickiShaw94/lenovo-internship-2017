@@ -1,4 +1,4 @@
-# Lenovo Summer 2017
+## Lenovo Summer 2017
 Vicki Shaw
 
 #HSLIDE
@@ -70,7 +70,7 @@ Vicki Shaw
 
 #VSLIDE
 
-Documentation
+### Documentation
 
     /// <summary> 
     /// </summary> 
@@ -114,7 +114,7 @@ Documentation
 
 #HSLIDE 
 
-# Quotable Quotes
+## Quotable Quotes
 
 #VSLIDE
 
@@ -130,8 +130,6 @@ Documentation
 
 ## "I still don't know what I'm doing"
 *Joe*
-
-
 
 #HSLIDE 
 
